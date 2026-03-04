@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaq.Bridge.Core", "src\Transaq.Bridge.Core\Transaq.Bridge.Core.csproj", "{3EA5D1D4-A44E-4A67-A7C3-967365D9BB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransaqGateway", "src\TransaqGateway\TransaqGateway.csproj", "{B5F61EF6-0AC7-477C-8A57-A44B4D397E9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaTrader8.AddOn.TransaqBridge", "src\NinjaTrader8.AddOn.TransaqBridge\NinjaTrader8.AddOn.TransaqBridge.csproj", "{0144D88D-3A6C-4F2F-8728-DF8C30DB56F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA5D1D4-A44E-4A67-A7C3-967365D9BB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA5D1D4-A44E-4A67-A7C3-967365D9BB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA5D1D4-A44E-4A67-A7C3-967365D9BB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA5D1D4-A44E-4A67-A7C3-967365D9BB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F61EF6-0AC7-477C-8A57-A44B4D397E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F61EF6-0AC7-477C-8A57-A44B4D397E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F61EF6-0AC7-477C-8A57-A44B4D397E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F61EF6-0AC7-477C-8A57-A44B4D397E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0144D88D-3A6C-4F2F-8728-DF8C30DB56F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0144D88D-3A6C-4F2F-8728-DF8C30DB56F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0144D88D-3A6C-4F2F-8728-DF8C30DB56F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0144D88D-3A6C-4F2F-8728-DF8C30DB56F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

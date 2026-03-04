@@ -1,0 +1,12 @@
+{
+  "Login": "YOUR_LOGIN",
+  "Password": "YOUR_PASSWORD",
+  "Host": "127.0.0.1",
+  "Port": 3900,
+  "AutoPos": true,
+  "LogDir": "logs",
+  "PipeName": "transaq-nt8",
+  "Instruments": [
+    { "Board": "TQBR", "Seccode": "SBER" }
+  ]
+}
